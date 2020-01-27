@@ -1,3 +1,6 @@
 ### TODOS
 
+-- installed sass 
+
 -[] remove unique dbs 
+    - I created the [news] database 

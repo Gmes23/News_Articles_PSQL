@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import Logout from './Logout'
+import './nav.sass'
 
 // Ternary operator that only loads links if user is auth
 
