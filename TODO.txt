@@ -2,5 +2,6 @@
 
 -- installed sass 
 
+-- make front end 
 -[] remove unique dbs 
     - I created the [news] database 
